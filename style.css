@@ -1,0 +1,9 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
